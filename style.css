@@ -1,0 +1,104 @@
+body {
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.my {
+    text-align: center;
+}
+
+#my1 {
+    margin-inline: 20%;
+}
+
+#skip {
+    color: darkgreen;
+}
+
+#section01 {
+    display: flex;
+    margin: 100px;
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+#section02 {
+    display: flex;
+    margin: 0%;
+    background-image: url(images/Frame\ 59.jpg);
+}
+
+.myrecepie {
+    text-align: center;
+}
+
+.div01 {
+    width: 50%;
+    padding-left: 10%;
+}
+
+button {
+    box-shadow: 0 8px 16px 0 rgba(237, 12, 12, 0.2), 0 6px 20px 0 rgba(12, 233, 93, 0.19);
+    background-color: green;
+    border-radius: 20%;
+    color: white;
+    font-size: 16px;
+}
+
+img {
+    width: 70%;
+}
+
+#img2 {
+    width: 50%;
+}
+
+.section03 {
+    display: flex;
+    margin: 100px;
+}
+
+.flex-container {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.f {
+    width: fit-content;
+    font-size: 20px;
+    margin: 15px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10%;
+    border-left: 10px solid green;
+    background-color: white;
+}
+
+#flex {
+    display: flex;
+    margin: 100px;
+    margin-left: 25%;
+    box-shadow: 10px 10px 30px gray;
+    text-align: center;
+    flex-wrap: nowrap;
+}
+
+.flex1 {
+    width: 30%;
+}
+
+footer {
+    height: 70px;
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
+
+#last {
+    background-color: chocolate;
+    color: white;
+}
